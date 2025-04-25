@@ -1,2 +1,2 @@
 # C_Project
-My University 1st semester Project
+Multipurpose Calculator in C
